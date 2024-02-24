@@ -431,6 +431,14 @@ const data_channels = [
     'c5d5297a84f8b2de977f07286345c591': 'bdb773d6d25303b75a396b8040cfaf8c'
   }
 }, {  
+  'name': "TV 5 MONDE KIDS",
+  'category': "CHANNEL INDONESIA TV",
+  'link': "https://cempedak-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd",
+  'type': "drm_key",
+  'key': {
+    '1b411a92f60bd9751d9637e849d3a632': 'd9bbfb8e1d34089daf5cc0c3ca17c694'
+  }
+}, {  
   'name': "MUSIC CHANNEL",
   'category': "CHANNEL INDONESIA TV",
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
