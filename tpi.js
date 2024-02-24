@@ -455,7 +455,7 @@ const data_channels = [
     'eefa1c34afba72f8fe902b061632528f': '334cde07f6ebe092c0ae0521591d73cf'
   }
 }, {
-  'name': "SPOTV 1 - SPORTS TV",
+  'name': "SPOTV 1 HD",
   'category': "CHANNEL SPORTS TV",
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd",
   'type': "drm_key",
@@ -463,7 +463,7 @@ const data_channels = [
     '57d2ac9210cfbca3596cc679a01c8b29': 'd5e35c0f39c76adf24853d7ea18c71e7'
   }
 }, {
-  'name': "SPOTV 2 - SPORTS TV",
+  'name': "SPOTV 2 HD",
   'category': "CHANNEL SPORTS TV",
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd",
   'type': "drm_key",
