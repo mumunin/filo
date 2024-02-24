@@ -689,6 +689,14 @@ const data_channels = [
   'key': {
     '5d9937d586414096948337ac314d79c1': "22ca2e250b729982c97209e0ff3f7e9b"
   }
+},{  
+  'name': "TUDN USA SPORTS",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd",
+  'type': "drm_key",
+  'key': {
+    '85c8956b207c44a693d89984803c908b': "8d8ff21c464506ef396356dd761f5ccd"
+  }
 }, {
   'name': "ESPN SPORTS 1",
   'category': "CHANNEL SPORTS TV",
@@ -871,10 +879,10 @@ const data_channels = [
 }, {
   'name': "SSC EXTRA 3 ARABIC",
   'category': "CHANNEL SPORTS TV",
-  'link': "https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd",
+  'link': "https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd",
   'type': "drm_key",
   'key': {
-    '9b05d5f11a0b422d86354c34782ed2bc': "82aef319b4cfc71fd48cdd495ee79786"
+    '98cfd6fd4812497fb24dc75f7545f2ee': "d3006ee69e77b25939728ebf30d3180a"
   }
 }, {
   'name': "SSC NEWS",
