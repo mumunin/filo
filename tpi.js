@@ -631,7 +631,65 @@ const data_channels = [
   'category': "CHANNEL SPORTS TV",
   'link': "https://op-group2-swiftservehd-1.dens.tv/h/h05/01.m3u8",
   'type': "hls"
+}, {
+  'name': "CHANAL 5 SPORTS",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8",
+  'type': "hls"
+}, {
+  'name': "FUTV SPORTS",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://cdn02.teletica.com/StreamFutv/Streamfutv04122023/playlist.m3u8",
+  'type': "hls"
 },{  
+  'name': "INFINITY SPORTS 1",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd",
+  'type': "drm_key",
+  'key': {
+    '00f9f3c0783536b832a8f0326fbdc02e': "ade0533ba667bb7e9847d8f215f03076"
+  }
+},{  
+  'name': "INFINITY SPORTS 2",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd",
+  'type': "drm_key",
+  'key': {
+    '00f9f3c0783536b834b0f0c2bfee80ac': "76b3afbf163f9c3feb6204b8fcf0ff53"
+  }
+},{  
+  'name': "SBT BRAZIL SPORTS",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd",
+  'type': "drm_key",
+  'key': {
+    '3ad3dca103185934acff7a0e9000c112': "3f396659d841a55cd1381e6735ecfa1d"
+  }
+},{  
+  'name': "CLUB 1 BELGIUM SPORTS",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd",
+  'type': "drm_key",
+  'key': {
+    'b53316f32fc93b51a61ba6fdf0bce6c1': "d752d66843a48a6fed64eed8f87adc3e"
+  }
+},{  
+  'name': "CANALE 5 ITALIAN SPORTS",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd",
+  'type': "drm_key",
+  'key': {
+    '00f9f3c0783536b8ce4a30a01a52e082': "e926f7d45af4f7d154c990eae6a2d937"
+  }
+},{  
+  'name': "ITV ENGLAND SPORTS",
+  'category': "CHANNEL SPORTS TV",
+  'link': "https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd",
+  'type': "drm_key",
+  'key': {
+    '5d9937d586414096948337ac314d79c1': "22ca2e250b729982c97209e0ff3f7e9b"
+  }
+}, {
   'name': "ESPN SPORTS 1",
   'category': "CHANNEL SPORTS TV",
   'link': "https://edge-live11-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
