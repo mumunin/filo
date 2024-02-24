@@ -1260,7 +1260,7 @@ const data_channels = [
     '00362452ed102000ccea64c311921dc2': '02f27bd6caab7633d3083b94d3958b1c'
   }
 }, {
-  'name': "NBCSN SPORTS NETWORK ",
+  'name': "USA SPORTS NETWORK ",
   'category': "CHANNEL SPORTS TV",
   'link': "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
   'type': 'drm_key',
