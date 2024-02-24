@@ -324,7 +324,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd",
   'type': "drm_key",
   'key': {
-    '56a40e58acd59965e865947dd719108d': '785024598882dc751652cea2bce44b8e'
+    '785024598882dc751652cea2bce44b8e': '56a40e58acd59965e865947dd719108d'
   }
 }, {  
   'name': "NICKJR KIDS",
@@ -332,7 +332,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd",
   'type': "drm_key",
   'key': {
-    '8a07ef45b4a18973ef12f8da482dcec0': 'f71ca09f57ea09e27ee63d7d1f0d0e31'
+    'f71ca09f57ea09e27ee63d7d1f0d0e31': '8a07ef45b4a18973ef12f8da482dcec0'
   }
 }, {  
   'name': "NATIONAL GEOGRAPHIC",
@@ -340,7 +340,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
   'type': "drm_key",
   'key': {
-    '626e37901bfb985e994d714e9f9de1b5': '05457a5e16a76fe666a22cc7ae2c6548'
+    '05457a5e16a76fe666a22cc7ae2c6548': '626e37901bfb985e994d714e9f9de1b5'
   }
 }, {  
   'name': "LOVE NATURE",
@@ -348,7 +348,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd",
   'type': "drm_key",
   'key': {
-    '4e98eb4927941bff51ea526d223fa16d': 'c3066eaa0984588f78d12dcdb75ef88b'
+    'c3066eaa0984588f78d12dcdb75ef88b': '4e98eb4927941bff51ea526d223fa16d'
   }
 }, {  
   'name': "IMC BIOSKOP INDONESIA",
@@ -356,7 +356,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd",
   'type': "drm_key",
   'key': {
-    'b0f3de006d6e31e967a5bc41be086e64': '1a551e30ef88a5a121dcea6a74a3aee7'
+    '1a551e30ef88a5a121dcea6a74a3aee7': 'b0f3de006d6e31e967a5bc41be086e64'
   }
 }, {  
   'name': "ZEE BIOSKOP INDONESIA",
@@ -364,7 +364,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
   'type': "drm_key",
   'key': {
-    'b92b6a2aba522bd9bb2d07cf241e7398': '9e7df70530006bef067327cefde82c0e'
+    '9e7df70530006bef067327cefde82c0e': 'b92b6a2aba522bd9bb2d07cf241e7398'
   }
 }, {  
   'name': "CHANNEL 8 MOVIES",
@@ -372,7 +372,7 @@ const data_channels = [
   'link': "https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd",
   'type': "drm_key",
   'key': {
-    '2448fc561b0c4220a81f1008971d3088': 'f48eb6753f3d1774da682970c93cf260'
+    'f48eb6753f3d1774da682970c93cf260': '2448fc561b0c4220a81f1008971d3088'
   }
 }, {  
   'name': "HISTORY",
@@ -380,7 +380,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
   'type': "drm_key",
   'key': {
-    'd23fb6a3c73eb7ab8ad19ca841db0fb5': '2ccaa7d9731c2e69fa5344c5a547b836'
+    '2ccaa7d9731c2e69fa5344c5a547b836': 'd23fb6a3c73eb7ab8ad19ca841db0fb5'
   }
 }, {  
   'name': "OKE TV INDONESIA",
@@ -388,7 +388,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
   'type': "drm_key",
   'key': {
-    'd5e35c0f39c76adf24853d7ea18c71e7': '57d2ac9210cfbca3596cc679a01c8b29'
+    '57d2ac9210cfbca3596cc679a01c8b29': 'd5e35c0f39c76adf24853d7ea18c71e7'
   }
 }, {  
   'name': "VISION PRIME",
@@ -396,7 +396,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
   'type': "drm_key",
   'key': {
-    '4ec78e3b7d66d1db3815a127f792b604': '50056951f6d5f5fbaf286cd99c965379'
+    '50056951f6d5f5fbaf286cd99c965379': '4ec78e3b7d66d1db3815a127f792b604'
   }
 }, {  
   'name': "HITS TV",
@@ -404,7 +404,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
   'type': "drm_key",
   'key': {
-    'c5ae33f70cc967fe107b35eb7225f52a': '78d17d4851a5e9eede96f283b15ec053'
+    '78d17d4851a5e9eede96f283b15ec053': 'c5ae33f70cc967fe107b35eb7225f52a'
   }
 }, {  
   'name': "HITS MOVIES",
@@ -412,7 +412,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/HitsMoviesHitsMovies/sa_dash_vmx/HitsMovies.mpd",
   'type': "drm_key",
   'key': {
-    '902e7634820c26a8ff36f3708f0191d4': '5d9684b1737e3b68801b4cff7225d4bb'
+    '5d9684b1737e3b68801b4cff7225d4bb': '902e7634820c26a8ff36f3708f0191d4'
   }
 }, {  
   'name': "MUSIC CHANNEL",
@@ -420,7 +420,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
   'type': "drm_key",
   'key': {
-    '4039d607f88f1b1f677e4beb6ee66637': '0bea88ab972e06760a04712cc423d841'
+    '0bea88ab972e06760a04712cc423d841': '4039d607f88f1b1f677e4beb6ee66637'
   }
 }, {  
   'name': "MUSLIM CHANNEL",
@@ -428,7 +428,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
   'type': "drm_key",
   'key': {
-    '334cde07f6ebe092c0ae0521591d73cf': 'eefa1c34afba72f8fe902b061632528f'
+    'eefa1c34afba72f8fe902b061632528f': '334cde07f6ebe092c0ae0521591d73cf'
   }
 }, {
   'name': "SPOTV 1 - SPORTS TV",
