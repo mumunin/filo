@@ -415,6 +415,22 @@ const data_channels = [
     '5d9684b1737e3b68801b4cff7225d4bb': '902e7634820c26a8ff36f3708f0191d4'
   }
 }, {  
+  'name': "THRILL MOVIES",
+  'category': "CHANNEL INDONESIA TV",
+  'link': "https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
+  'type': "drm_key",
+  'key': {
+    '06e7e95fdb30086d24111f300c9d91f1': '9431050f760f692bfd396bbd84cb5161'
+  }
+}, {  
+  'name': "AXN MOVIES",
+  'category': "CHANNEL INDONESIA TV",
+  'link': "https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
+  'type': "drm_key",
+  'key': {
+    'c5d5297a84f8b2de977f07286345c591': 'bdb773d6d25303b75a396b8040cfaf8c'
+  }
+}, {  
   'name': "MUSIC CHANNEL",
   'category': "CHANNEL INDONESIA TV",
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
