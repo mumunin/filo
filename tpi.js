@@ -316,7 +316,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
   'type': "drm_key",
   'key': {
-    "93b6c4ff420c6864a6294f6d223d9b2c": '6344a8272809245e3fa9d926099528c3"
+    "93b6c4ff420c6864a6294f6d223d9b2c": "6344a8272809245e3fa9d926099528c3"
   }
 }, {   
   'name': "NICKELODEON KIDS",
