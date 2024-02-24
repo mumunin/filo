@@ -412,7 +412,7 @@ const data_channels = [
   'link': "https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
   'type': "drm_key",
   'key': {
-    '902e7634820c26a8ff36f3708f0191d4': '5d9684b1737e3b68801b4cff7225d4bb'
+    '5d9684b1737e3b68801b4cff7225d4bb': '902e7634820c26a8ff36f3708f0191d4'
   }
 }, {  
   'name': "MUSIC CHANNEL",
